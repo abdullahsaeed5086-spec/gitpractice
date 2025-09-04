@@ -12,8 +12,8 @@ function App() {
   return (
     <>
     
-     {/* <Header/> */}
-     <Zain/>
+     <Header/>
+     {/* <Zain/> */}
      {/* <LearnWebCam/> */}
      {/* <Bootstrap/> */}
        
