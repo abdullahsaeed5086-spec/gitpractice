@@ -4,14 +4,16 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './components/Header'
 import Bootstrap from './components/Bootstrap'
+import Zain from './components/Zain'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-     <Header/>
-     <Bootstrap/>
+    
+     {/* <Header/> */}
+     <Zain/>
+     {/* <Bootstrap/> */}
        
     </>
   )
