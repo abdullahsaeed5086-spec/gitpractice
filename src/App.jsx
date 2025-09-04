@@ -5,6 +5,7 @@ import './App.css'
 import Header from './components/Header'
 import Bootstrap from './components/Bootstrap'
 import Zain from './components/Zain'
+import LearnWebCam from './components/webcamfunction/LearnWebCam'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
     
      {/* <Header/> */}
      <Zain/>
+     {/* <LearnWebCam/> */}
      {/* <Bootstrap/> */}
        
     </>
